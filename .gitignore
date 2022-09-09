@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+dist
+.DS_Store
+.idea
+.vscode
+yarn-error.log
+hop.yml
